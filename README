@@ -7,7 +7,7 @@ We structured the project, named "Chatty Kathy," by first determining the divisi
 On the other hand, I focused on the frontend development due to my proficiency with CSS and HTML. My responsibilities included designing the user interface, implementing aesthetic elements such as fonts and app background images, and ensuring a cohesive visual experience for users.
 
 (2)Provide the GitHub link to your project. This will allow me to evaluate the collaboration among group members:
-You can evaluate our collaboration and review our project by visiting our GitHub repository at GitHub link: https://github.com/YungShrk/chatykathy.
+You can evaluate our collaboration and review our project by visiting our GitHub repository at GitHub link: https://github.com/YungShrk/chatKathy.
 
 (3)Mention if you have executed any test plans that you outlined in your test plan documentation:
 Yes, we have executed several test plans as outlined in our test plan documentation. These include MongoDB tests to verify database interactions and Postman tests to ensure proper functioning of our API endpoints.
